@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Vpn",
+  "description": "Professional Bangladesh VPN with optimized local routing for Alap, bKash, Brilliant, and global servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
